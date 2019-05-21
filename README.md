@@ -2,7 +2,7 @@
 
 1. code: oogan_models.py, oogan_modules.py
 2. to run the code, 
-    first edit the "config.py" for all hyperparameter settings, templetes are provided inside
+    first edit the "config.py" for all hyperparameter settings, templetes are provided inside,
     then run "python train.py"
    the training will print log on terminal and save the generated models and images during training.
 
